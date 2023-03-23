@@ -1,0 +1,21 @@
+.avg-class {
+     background-color:lightpink;
+     font-family: verdana, "Deja-Vu Sans", sans-serif;
+} 
+
+.avg-class#cooler {
+    font-size: 24px;
+}
+
+#singular {
+
+    color:blue;
+    font-size: 36px;
+
+}
+
+#singular2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
